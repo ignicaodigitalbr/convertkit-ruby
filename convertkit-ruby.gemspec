@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require 'convertkit/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = "convertkit-ruby"
+  spec.name          = "convertkit-ruby_api"
   spec.version       = Convertkit::VERSION
   spec.authors       = ["Raymond Cudjoe","Hook Engine"]
   spec.email         = ["rkcudjoe@gmail.com","rkcudjoe@hookengine.com"]
