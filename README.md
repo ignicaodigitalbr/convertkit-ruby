@@ -1,13 +1,13 @@
 # Convertkit Ruby Client
 
-A Ruby toolkit for [Convertkit](https://convertkit.com/) API.
+A Ruby toolkit for [Convertkit](https://convertkit.com/) API, forked from [HookOps/convertkit-ruby](https://github.com/HookOps/convertkit-ruby)
 
 ## Installation
 
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'convertkit-ruby', require: 'convertkit'
+gem 'convertkit-ruby_api'
 ```
 
 And then execute:
